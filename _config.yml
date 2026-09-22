@@ -2,3 +2,13 @@ theme: minima
 title: Security is delusion
 description: Cloud and GRC engineering in AI times
 author: Xavier Ruiz Nebot
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+social:
+  name: Xavier Ruiz Nebot
+  links:
+    - https://www.linkedin.com/in/xavier-nebot
+    - https://github.com/Nebotxavi
